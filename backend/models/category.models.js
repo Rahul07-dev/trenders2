@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose, {Schema} from "mongoose";
 import { commonStrings } from "../constants";
 
 const categorySchema= new mongoose.Schema({

@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose,{Schema}from "mongoose";
 import { userSchema } from "./user.models";
 import { commonStrings } from "../constants";
 
