@@ -9,4 +9,6 @@ export const commonStrings={
     USER: 'User'
 }
 
-export const  enum orderStatus{'pending','confirmed','shipped','delivered'};
+// export const  enum orderStatus= {'pending','confirmed','shipped','delivered'};
+
+export const DB_NAME='trendersDb';
